@@ -11,7 +11,7 @@ Capture any epics here.  An epic can normally be turned into a user story.
 The purpose of user stories are to capture a need (requirement) or behavior of the system from the perspective of the primary actor.
 
 1. As a browsing user, I would like to tell others about websites that engage in malicious or misleading behavior (infractions).
-2. As a browsing user, I would like to if the website I am planning on using has or does engage in malicious or misleading behavior.
+2. As a browsing user, I would like to know if the website I am planning on using has or does engage in malicious or misleading behavior.
 4. As a browsing user, I would like to know the number of infraction reports against a given website.
 5. As an active reporting user, I would like my information to remain anonymous, so that my identity is not known.
 6. As an active reporting user, I would like the ability to attribute my information, so that others can build trust for my infraction reports.
