@@ -18,7 +18,7 @@
     2) Once released to the public, all code changes must be reviewed by 2 of the CODEOWNERS
 5) Push early and often!
     1) Small changes are the best changes
-    2) Continious Release is the goal of this repo
+    2) Continious Deployment is the goal of this repo
 
 ## Work Planning
 Major work is planned [here](https://github.com/orgs/Cyberspace-Citizenship-Coefficient/projects/1)
