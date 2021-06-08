@@ -1,4 +1,7 @@
-Request a new feature!
+---
+name: Feature Request
+about: Request a new feature!
+labels: ":bulb:FEATURE REQUEST:bulb:"
 ---
 ### Is your proposal related to a problem?
 
